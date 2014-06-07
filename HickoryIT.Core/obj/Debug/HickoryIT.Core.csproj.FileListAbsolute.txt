@@ -1,0 +1,9 @@
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Core\obj\Debug\HickoryIT.Core.csprojResolveAssemblyReference.cache
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Core\bin\Debug\HickoryIT.Core.dll
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Core\bin\Debug\HickoryIT.Core.pdb
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Core\bin\Debug\HickoryIT.Shared.dll
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Core\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Core\bin\Debug\HickoryIT.Shared.pdb
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Core\obj\Debug\HickoryIT.Core.dll
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Core\obj\Debug\HickoryIT.Core.pdb

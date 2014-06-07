@@ -1,0 +1,13 @@
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\ResDB\obj\Debug\ResDB.csprojResolveAssemblyReference.cache
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\ResDB\bin\Debug\ResDB.exe.config
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\ResDB\bin\Debug\ResDB.exe
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\ResDB\bin\Debug\ResDB.pdb
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\ResDB\bin\Debug\HickoryIT.Core.dll
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\ResDB\bin\Debug\HickoryIT.Shared.dll
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\ResDB\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\ResDB\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\ResDB\bin\Debug\MySql.Data.dll
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\ResDB\bin\Debug\HickoryIT.Core.pdb
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\ResDB\bin\Debug\HickoryIT.Shared.pdb
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\ResDB\obj\Debug\ResDB.exe
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\ResDB\obj\Debug\ResDB.pdb

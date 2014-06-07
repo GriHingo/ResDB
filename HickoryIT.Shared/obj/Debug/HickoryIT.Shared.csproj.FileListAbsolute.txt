@@ -1,0 +1,5 @@
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Shared\bin\Debug\HickoryIT.Shared.dll
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Shared\bin\Debug\HickoryIT.Shared.pdb
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Shared\bin\Debug\MySql.Data.dll
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Shared\obj\Debug\HickoryIT.Shared.dll
+C:\Users\tony\Documents\Visual Studio 2013\Projects\ResDB\HickoryIT.Shared\obj\Debug\HickoryIT.Shared.pdb

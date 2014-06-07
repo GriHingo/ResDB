@@ -19,6 +19,7 @@ namespace HickoryIT.Core.Application
 
         public static ResourceDB Instance
         {
+            // Test
             get{ return instance; }
         }
 
